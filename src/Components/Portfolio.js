@@ -1,4 +1,7 @@
 import React, { Component } from "react";
+import o1 from "../images/thumbs/01.png";
+import o2 from "../images/thumbs/02.png";
+import o3 from "../images/thumbs/03.png";
 
 class Portfolio extends Component {
   render() {
@@ -14,12 +17,12 @@ class Portfolio extends Component {
               <div className="article-wrapper">
                 <article className="col-12 col-12-xsmall work-item">
                   <a
-                    href="https://github.com/rammazzoti2000/final-capstone"
+                    href="https://github.com/shreyshreyansh/Peer-Coder"
                     className="image fit thumb"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
-                    <img src="images/thumbs/01.png" alt="final-capstone" />
+                    <img src={o1} alt="peer-coder" />
                   </a>
                   <div className="art-description">
                     <div className="text-wrapper">
@@ -63,12 +66,12 @@ class Portfolio extends Component {
               <div className="article-wrapper">
                 <article className="col-12 col-12-xsmall work-item">
                   <a
-                    href="https://github.com/rammazzoti2000/js_capstone_rpg"
+                    href="https://github.com/shreyshreyansh/GreenMile"
                     className="image fit thumb"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
-                    <img src="images/thumbs/02.png" alt="js-capstone" />
+                    <img src={o2} alt="green-mile" />
                   </a>
                   <div className="art-description">
                     <div className="text-wrapper">
@@ -116,15 +119,12 @@ class Portfolio extends Component {
               <div className="article-wrapper">
                 <article className="col-12 col-12-xsmall work-item">
                   <a
-                    href="https://github.com/rammazzoti2000/ror-capstone-lifestyle"
+                    href="https://github.com/shreyshreyansh/Smart-Water"
                     className="image fit thumb"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
-                    <img
-                      src="images/thumbs/03.png"
-                      alt="ror-capstone-lifestyle"
-                    />
+                    <img src={o3} alt="smart-water" />
                   </a>
                   <div className="art-description">
                     <div className="text-wrapper">
