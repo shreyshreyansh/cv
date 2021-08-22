@@ -13,33 +13,25 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-![Hireable](https://cdn.rawgit.com/hiendv/hireable/master/styles/default/yes.svg)
-[![Netlify][netlify-shield]][netlify-url]
 
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/rammazzoti2000/personal_portfolio">
+  <a href="https://github.com/shreyshreyansh/cv">
     <img src="public/images/microverse.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Personal Portfolio</h3>
 
   <p align="center">
-    This project is part of the Microverse Professional skills curriculum!
-    <br />
-    <a href="https://github.com/rammazzoti2000/personal_portfolio"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/shreyshreyansh/cv"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://www.alex-portfolio.org/">View Demo</a>
+    <a href="https://shreyshreyansh.github.io/cv">View Demo</a>
     ·
-    <a href="https://github.com/rammazzoti2000/personal_portfolio/issues">Report Bug</a>
+    <a href="https://github.com/shreyshreyansh/cv/issues">Report Bug</a>
     ·
-    <a href="https://github.com/rammazzoti2000/personal_portfolio/issues">Request Feature</a>
+    <a href="https://github.com/shreyshreyansh/cv/issues">Request Feature</a>
   </p>
 </p>
 
@@ -57,7 +49,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://rammazzoti2000.github.io/personal_portfolio/)
+[![Product Name Screen Shot][product-screenshot]](https://github.com/shreyshreyansh/cv)
 
 This project represents my personal Portfolio and features some of my github projects
 
@@ -77,11 +69,11 @@ To have this app on your pc, you need to:
 * [download](https://github.com/rammazzoti2000/personal_portfolio/archive/development.zip) or clone this repo:
   - Clone with SSH:
   ```
-    git@github.com:rammazzoti2000/personal_portfolio.git
+    git@github.com:shreyshreyansh/cv.git
   ```
   - Clone with HTTPS
   ```
-    https://github.com/rammazzoti2000/personal_portfolio.git
+    https://github.com/shreyshreyansh/cv.git
   ```
 
 * In the project directory, you can run:
@@ -105,15 +97,15 @@ To have this app on your pc, you need to:
 <!-- LIVE VERSION -->
 ## Live version
 
-You can see it [here](https://www.alex-portfolio.org/)
+You can see it [here](https://shreyshreyansh.github.io/cv/)
 
 <!-- CONTACT -->
 ## Author
 👤 Alexandru Bangau
 
-- Twitter: [@alex_maxinova](https://twitter.com/alex_maxinova)
-- Github: [@rammazzoti2000](https://github.com/rammazzoti2000)
-- Gmail: bangau.alexandru@gmail.com
+- Twitter: [@Shreyanshshrey3](https://twitter.com/Shreyanshshrey3)
+- Github: [@shreyshreyansh](https://github.com/shreyshreyansh)
+- Gmail: shreyansh.shrey1999@gmail.com
 
 ## :handshake: Contributing
 Contributions, issues and feature requests are welcome!
@@ -123,12 +115,6 @@ Feel free to check the [issues page](https://github.com/rammazzoti2000/personal_
 ## Show your support
 
 Give a :star: if you like this project!
-
-<!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
-* [Microverse](https://www.microverse.org/)
-* [SmartMockups](https://smartmockups.com/)
-* [Netlify](https://www.netlify.com/)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
