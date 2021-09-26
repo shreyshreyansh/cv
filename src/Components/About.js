@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import resume from "../assets/resume.pdf";
+import resume from "../assets/ShreyanshShrey_Resume1.pdf";
 import picture from "../images/thumbs/profilepic.jpg";
 
 class About extends Component {
