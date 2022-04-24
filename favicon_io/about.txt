@@ -1,0 +1,6 @@
+This favicon was generated using the following font:
+
+- Font Title: Cutive Mono
+- Font Author: Copyright 2012 The Cutive Project Authors (vern@newtypography.co.uk)
+- Font Source: http://fonts.gstatic.com/s/cutivemono/v14/m8JWjfRfY7WVjVi2E-K9H5RFRG-K3Mud.ttf
+- Font License: SIL Open Font License, 1.1 (http://scripts.sil.org/OFL))
