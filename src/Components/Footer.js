@@ -1,4 +1,4 @@
-import React, { Component } from "react";
+import React, { Component } from 'react';
 
 class Footer extends Component {
   render() {
@@ -24,7 +24,7 @@ class Footer extends Component {
                 &copy; Copyright {new Date().getFullYear()} Shreyansh Shrey
               </li>
               <li>
-                Design by{" "}
+                Design by{' '}
                 <a href="https://github.com/shreyshreyansh">shreyshreyansh</a>
               </li>
             </ul>

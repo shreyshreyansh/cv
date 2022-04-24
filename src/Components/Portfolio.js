@@ -1,7 +1,7 @@
-import React, { Component } from "react";
-import o1 from "../images/thumbs/01.png";
-import o2 from "../images/thumbs/02.png";
-import o3 from "../images/thumbs/03.png";
+import React, { Component } from 'react';
+import o1 from '../images/thumbs/01.png';
+import o2 from '../images/thumbs/02.png';
+import o3 from '../images/thumbs/03.png';
 
 class Portfolio extends Component {
   render() {
@@ -87,16 +87,6 @@ class Portfolio extends Component {
                     </div>
                     <ul className="actions">
                       <div className="actions-wrapper">
-                        <li>
-                          <a
-                            href="/maintenance.html"
-                            className="button project-button"
-                            target="_blank"
-                            rel="noopener noreferrer"
-                          >
-                            View Demo
-                          </a>
-                        </li>
                         <li>
                           <a
                             href="https://github.com/shreyshreyansh/GreenMile"

@@ -1,0 +1,96 @@
+{
+  "main": {
+    "name": "Shreyansh Shrey",
+    "occupation": "Backend Developer",
+    "description": "I like to code things from scratch, and enjoy bringing ideas to life",
+    "image": "profilepic.jpg",
+    "contactmessage": "Have me make stuff for you. If you like my work and have some cool projects to work on, just send me a direct message or contact me through social sites.",
+    "email": "shreyansh.shrey1999@gmail.com",
+    "phone": "+91 7296091010",
+    "address": {
+      "city": "Ranchi",
+      "state": "JH",
+      "zip": "834008"
+    },
+    "website": "/",
+    "resumedownload": "https://drive.google.com/file/d/19sYWbbS4aP9zze7vdgfBPCegE4qWaO19/view?usp=sharing",
+    "social": [
+      {
+        "name": "codechef",
+        "url": "https://codeforces.com/profile/cyberphobia",
+        "className": "fa fa-code"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/shreyansh-shrey-647870190/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/shreyshreyansh",
+        "className": "fa fa-github"
+      },
+      {
+        "name": "email",
+        "url": "mailto:shreyansh.shrey1999@gmail.com?subject=The%20subject%20of%20the%20mail",
+        "className": "fa fa-envelope"
+      }
+    ]
+  },
+  "resume": {
+    "education": [
+      {
+        "school": "Manipal University Jaipur",
+        "degree": "BTech",
+        "specialization": "Computer Science",
+        "graduated": "2018-2022"
+      },
+      {
+        "school": "DAV Gandhinagar",
+        "degree": "Senior Secondary",
+        "specialization": "Science",
+        "graduated": "2016-2017"
+      },
+      {
+        "school": "St.Thomas",
+        "degree": "Secondary",
+        "specialization": "General",
+        "graduated": "2014-2015"
+      }
+    ],
+    "work": [
+      {
+        "company": "MedPiper Technologies, Inc",
+        "title": "Backend Developer",
+        "years": "Sept 2021 - Dec 2021",
+        "description": [
+          "• Automated their interview scheduling process using node.js and google api services which reduced their hiring time in half",
+          "• Developed a real-time video call service between doctor and patient using webRTC and socket.io which was an important component of their flagship offering",
+          "• With the aid of mongoose and indexing on MongoDB, we implemented a medication search API service that allowed our users to discover medicine 25% faster",
+          "• Wrote unit tests for the API services using Mocha chai which made services more robust and production-ready",
+          "• Integrated Prometheus and Grafana for the AWS EC2 servers which helped the developers in catching errors faster and in tracking the health of the servers"
+        ]
+      },
+      {
+        "company": "Frugal Labs Pvt. Ltd.",
+        "title": "Full Stack Developer",
+        "years": "June 2021 - August 2021",
+        "description": [
+          "• Worked on developing a frontend platform for their flagship product MIDAS using React.js and Redux which helped the stakeholders to visualise their data and made their decision making 75% faster with 95% accuracy",
+          "• Used Typescript to automate various business logic and deployed it on AWS Lambda, which lowered the data processing time from 15 days to only 5 minutes",
+          "• Worked on the deployment of the frontend on AWS S3 and served it over AWS Cloudfront which made the website loading 25% quicker",
+          "• Deployed the backend service on different AWS EC2 servers and configured an application load balancer which made the servers 3x more available and scalable",
+          "• Using Github Actions, created CI/CD pipelines that made deployment 2x quicker"
+        ]
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Shreyansh has been a hard working developer right from the day 1 regardless of the project he works on.His technical capabilities will really help any firm that he works with.",
+        "user": "Himanshu Ranjan | SDE Intern @Practo | Backend | Android/Flutter | 4* @CodeChef"
+      }
+    ]
+  }
+}

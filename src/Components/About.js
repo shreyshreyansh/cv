@@ -1,6 +1,6 @@
-import React, { Component } from "react";
-import resume from "../assets/ShreyanshShrey_Resume1.pdf";
-import picture from "../images/thumbs/profilepic.jpg";
+import React, { Component } from 'react';
+import resume from '../assets/resume.pdf';
+import picture from '../images/thumbs/profilepic.jpg';
 
 class About extends Component {
   render() {
@@ -28,10 +28,10 @@ class About extends Component {
             <h2>About Me</h2>
 
             <p>
-              New to linkedin but strong in design and integration with
-              intuitive problem-solving skills. Proficient in MERN Stack
-              Development, (Highest Rating 1879 [4⭐]) on CodeChef, (max.
-              specialist, 1476) on Codeforces, ACM ICPC Regionalist '20. <br />
+              Strong in design and integration with intuitive problem-solving
+              skills. Proficient in MERN Stack Development, (Highest Rating 1879
+              [4⭐]) on CodeChef, (max. specialist, 1476) on Codeforces, ACM
+              ICPC Regionalist '20. <br />
               <br />
               Passionate about implementing and launching new projects. Ability
               to translate business requirements into technical solutions.
@@ -43,7 +43,6 @@ class About extends Component {
                 <h2>Contact Details</h2>
                 <p className="address">
                   <span>{name}</span>
-                  <br />
                   <span>
                     {street}
                     <br />
